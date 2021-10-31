@@ -35,5 +35,5 @@ When someone clicks on logout then they are logged out and directed to login pag
 ![Screenshot (47)](https://user-images.githubusercontent.com/89355345/139581676-562f70da-f2a0-44de-93c2-ca623ba7a7ca.png)
 
 When we login from another account then we can see the post created last time from other id!
-![Screenshot (47)](https://user-images.githubusercontent.com/89355345/139581755-5aff43c9-2003-49df-9c8c-06697723b841.png)
-![Screenshot (49)](https://user-images.githubusercontent.com/89355345/139581782-d3849e57-6a13-40ce-a176-7280baee3242.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/89355345/139582007-1912a852-ec2d-4e6e-a6ec-bd2bfd4f3ead.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/89355345/139582016-b0cd129a-f6ae-4959-987b-dd5dd63d9411.png)
