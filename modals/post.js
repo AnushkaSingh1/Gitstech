@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
-require('dotenv').config();
-mongoose.connect(process.env.MONGO_CONN  , {useNewUrlParser : true , useUnifiedTopology: true});
+const URI = require("../config");
+mongoose.connect(URI  , {useNewUrlParser : true , useUnifiedTopology: true});
 
 const postSchema = new mongoose.Schema({
     username : {
